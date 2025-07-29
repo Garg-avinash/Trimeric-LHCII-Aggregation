@@ -1,6 +1,7 @@
 # Trimeric-LHCII-Aggregation
-We present the GROMACS input files, GoMartini 3 modelling with parameter files and contact map files, pigment mapping, and simulation trajectory for LHCII simulation in plant thylakoid membrane.
+We present the GROMACS input files, coarse-grained ITP files of PsbS, LHCII trimer and pigments used in the simulation of the LHCII+PsbS complex in the plant thylakoid membrane.
 We have simulated 9 trimeric LHCII associated with two PsbS monomers in the plant thylakoid membrane using GōMartini 3 with virtual site implementations.
+The all-atom PDB of two PsbS monomers associated with one trimeric LHCII is obtained from a well-established previous molecular dynamics simulation study [5].
 
 
 References: 
