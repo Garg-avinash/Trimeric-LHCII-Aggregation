@@ -9,3 +9,4 @@ References:
 2. Chiariello, M.G., Zarmiento-Garcia, R. and Marrink, S.J., 2024. Martini 3 Coarse-Grained Model for the Cofactors Involved in Photosynthesis. International Journal of Molecular Sciences, 25(14), p.7947.
 3. Liu, Z., Yan, H., Wang, K., Kuang, T., Zhang, J., Gui, L., An, X. and Chang, W., 2004. Crystal structure of spinach major light-harvesting complex at 2.72 Å resolution. Nature, 428(6980), pp.287-292.
 4. Garg, A. and Debnath, A., 2024. Light Harvesting Complex II Resists Non-Bilayer Lipid-Induced Polymorphism in Plant Thylakoid Membranes via Lipid Redistribution. The Journal of Physical Chemistry Letters, 16(1), pp.95-102.
+5. Daskalakis, V.; Papadatos, S.; Kleinekathoefer, U. Fine tuning of the photosystem II major antenna mobility within the thylakoid membrane of higher plants. Biochimica et Biophysica Acta (BBA)-Biomembranes 2019, 1861, 183059.
